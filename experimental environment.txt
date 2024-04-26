@@ -1,0 +1,9 @@
+Name                                     Version
+CPU                                        Intel(R)i9-10900K CPU@370GHz
+GPU                                        NVIDIA GeForce RTX 3090
+RAM                                       64G
+Operating System                  Windows10
+Programming Language        Python 3.8
+CUDA                                     11.3
+CUDNN                                   8.1
+Deep Learning Framework     Pytorch 1.11.0
