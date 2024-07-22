@@ -1,1 +1,1 @@
-The project will be used in business and an invention patent has been applied for protection. To download the code of this project, reach out to Herbert Hao  --  superherbert@163.com. Your letter should describe your institution and the work in which you and your team plan to use the code.
+The project is currently being used in patent applications. To download the code of this project, reach out to Herbert Hao  --  superherbert@163.com. Your letter should describe your institution and the work in which you and your team plan to use the code.
